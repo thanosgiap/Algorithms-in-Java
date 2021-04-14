@@ -19,6 +19,7 @@ public class SelectionSort {
     }
 
     void print(int[] arr){
+        System.out.println("Selection Sort results");
         for (int j : arr) {
             System.out.print(j + " ");
         }
