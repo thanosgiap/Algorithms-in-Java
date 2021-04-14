@@ -32,6 +32,15 @@ Best case comlpexity: Ω(n^2) <br>
 Average case complexity: Θ(n^2) <br>
 Worst case complexity: O(n^2)
 
+### Bubble Sort:
+Bubble sort is the simplest sorting algorithm starting from the start of the array, swapping elements if they are on the
+wrong order.
+
+#### Time complexity:
+Best case comlpexity: Ω(n) <br>
+Average case complexity: Θ(n^2) <br>
+Worst case complexity: O(n^2)
+
 
 
 
